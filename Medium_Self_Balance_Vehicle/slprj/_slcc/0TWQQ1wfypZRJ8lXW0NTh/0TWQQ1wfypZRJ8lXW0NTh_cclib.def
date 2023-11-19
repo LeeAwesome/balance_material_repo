@@ -1,0 +1,15 @@
+LIBRARY 0TWQQ1wfypZRJ8lXW0NTh_cclib.dll
+EXPORTS
+    get_fac_us_addr_0TWQQ1wfypZRJ8lXW0NTh
+    get_fac_ms_addr_0TWQQ1wfypZRJ8lXW0NTh
+    get_dll_checksum_0TWQQ1wfypZRJ8lXW0NTh
+    delay_init_0TWQQ1wfypZRJ8lXW0NTh
+    delay_us_0TWQQ1wfypZRJ8lXW0NTh
+    delay_ms_0TWQQ1wfypZRJ8lXW0NTh
+    IIC_Init_0TWQQ1wfypZRJ8lXW0NTh
+    MPU6050_initialize_0TWQQ1wfypZRJ8lXW0NTh
+    DMP_Init_0TWQQ1wfypZRJ8lXW0NTh
+    Read_DMP_0TWQQ1wfypZRJ8lXW0NTh
+    MPU6050ReadDATA_0TWQQ1wfypZRJ8lXW0NTh
+    Kalman_Filter_0TWQQ1wfypZRJ8lXW0NTh
+    get_checksum_source_info

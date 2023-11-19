@@ -1,0 +1,3 @@
+config load "G:\Big_Big\Simulink\STM32Cube_code\Code\Medium_Self_Balance_Vehicle\Medium_Self_Balance_Vehicle.ioc"
+project generate ui
+exit wait

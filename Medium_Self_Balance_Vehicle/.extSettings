@@ -1,0 +1,6 @@
+[ProjectFiles]
+HeaderPath=G:\Big_Big\Simulink\STM32Cube_code\Code\Medium_Self_Balance_Vehicle\Medium_Self_Balance_Vehicle\Inc;G:\Big_Big\MATLAB\STM32-MAT\STM32\addSrc\inc;
+[Groups]
+MATLAB=G:\Big_Big\MATLAB\STM32-MAT\STM32\addSrc\src/getBuffPtr.c;G:\Big_Big\Simulink\STM32Cube_code\Code\Medium_Self_Balance_Vehicle\Medium_Self_Balance_Vehicle\Src/Medium_Self_Balance_Vehicle.c;G:\Big_Big\Simulink\STM32Cube_code\Code\Medium_Self_Balance_Vehicle\Medium_Self_Balance_Vehicle\Src/Medium_Self_Balance_Vehicle_ADC.c;G:\Big_Big\Simulink\STM32Cube_code\Code\Medium_Self_Balance_Vehicle\Medium_Self_Balance_Vehicle\Src/Medium_Self_Balance_Vehicle_TIM.c;G:\Big_Big\Simulink\STM32Cube_code\Code\Medium_Self_Balance_Vehicle\Medium_Self_Balance_Vehicle\Src/Medium_Self_Balance_Vehicle_USART.c;G:\Big_Big\Simulink\STM32Cube_code\Code\Medium_Self_Balance_Vehicle\Medium_Self_Balance_Vehicle\Src/rtGetInf.c;G:\Big_Big\Simulink\STM32Cube_code\Code\Medium_Self_Balance_Vehicle\Medium_Self_Balance_Vehicle\Src/rtGetNaN.c;G:\Big_Big\Simulink\STM32Cube_code\Code\Medium_Self_Balance_Vehicle\Medium_Self_Balance_Vehicle\Src/rt_nonfinite.c;
+[Others]
+Define=MEM_UNIT_BYTES;ARM_MATH_CM3;MemUnit_T:uint8_T;
